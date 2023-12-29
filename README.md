@@ -8,7 +8,7 @@ React Native
 
 Expo
 
-State Management: Önce context-api ile, daha sonrada redux-toolkit yaptım.
+State Management: Önce context-api ile, daha sonrada redux-toolkit ile yaptım.
 
 Route: react-navigation/native, react-navigation/native-stack.
 
